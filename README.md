@@ -1,2 +1,1 @@
-# kickstarter-analysis
-theatre analysis for Louise
+# An Analysis of Kickstarter Campaigns.
