@@ -10,9 +10,10 @@ With that in mind, it is important for anyone starting a Kickstarter campaign to
 
 ### __Analysis of Outcomes Based on Launch Date__
 ![image](https://user-images.githubusercontent.com/86559759/130322709-f97caa82-9e45-4e67-a29e-92cff62d4ba8.png)
-Based on the Launched date dataset, out of __1369__ Theatre campaigns, a total of __839__ were successful, giving it a __61%__ success rate while __36%__ failed & __3%__ were canceled. On a monthly breakdown, successful Theatre campaigns are generally higher than failed & canceled campaigns combined. Those that were launched on the 2nd quarter of a year were highly successful, particularly __May__, which had the highest percentage of __67%__ successful outcomes. While those launched in December had the highest percentage of __47%__ failed outcomes.
+Based on the Launched Date Outcomes, out of __1369__ Theatre campaigns, a total of __839__ were successful, giving it a __61%__ success rate while __36%__ failed & __3%__ were canceled. On a monthly breakdown, successful Theatre campaigns are generally higher than failed & canceled campaigns combined. Those that were launched on the 2nd quarter of a year were highly successful, particularly __May__, which had the highest percentage of __67%__ successful outcomes. While those launched in December had the highest percentage of __47%__ failed outcomes.
 
 ### __Analysis of Outcomes Based on Goals__
+![image](https://user-images.githubusercontent.com/86559759/130322726-f6733b62-3e2a-41fa-b434-023fe288c191.png)
 To get a better understanding of Theatre Outcomes based on its Goal, we have categorized each campaign's goal into an intervals of $5,000. We set a starting point of _'Less than $1,000'_ until _'Greater than $50,000'_. Based on the data, those campaigns with a set goal of __$5,000 or less__ have have the highest chances of success and tend to get lower the higher the goal. A total of __529__ successful campaigns are attributed to the first two ranges of the data.
 
 ### __Challenges and Difficulties Encountered__
